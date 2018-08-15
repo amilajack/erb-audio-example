@@ -1,5 +1,7 @@
 # erb-audio-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/erb-audio-example.svg)](https://greenkeeper.io/)
+
 A runnable example of `electron-react-boilerplate` importing audio files
 
 ### Installation
